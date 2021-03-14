@@ -9,4 +9,4 @@ EDA : Tratamento, exploração e  visualização dos dados.
 
 Machine learning : Triagem de modelos de machine learning e escolha do modelo mais eficiente.
 
-Deploy: Após salvar o melhor modelo, foi desenvolvido uma aplicação web.
+Deploy: Após salvar o melhor modelo, foi desenvolvido uma aplicação web utilizando o modelo salvo.
