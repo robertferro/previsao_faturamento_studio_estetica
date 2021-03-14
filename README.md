@@ -8,3 +8,5 @@ Além disso, iremos preparar os dados para modelagem, com objetivo de encontrar 
 EDA : Tratamento, exploração e  visualização dos dados.
 
 Machine learning : Triagem de modelos de machine learning e escolha do modelo mais eficiente.
+
+Deploy: Após salvar o melhor modelo, foi desenvolvido uma aplicação web.
